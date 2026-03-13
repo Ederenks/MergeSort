@@ -4,7 +4,7 @@ public class Ordenacao {
 	public Ordenacao() {
 		super();
 	}
-	
+	//
 	public int [] BubleSort(int [] x) {
 		int aux;
 		System.out.print("{");
